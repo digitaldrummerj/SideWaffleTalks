@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateReport>
+  <ItemTemplates>
+    <ItemTemplate Path="ItemTemplates\NUnit\Definitions\CSharp.vstemplate" Name="Nunit Test Class" Description="Nunit test class with all of the reference setup for nunit, fixture setup/teardown, test setup/teardown, and base class." ProjectType="CSharp" ProjectSubType="" />
+  </ItemTemplates>
+  <ProjectTemplates>
+    <ProjectTemplate Path="..\NUnitProjectTemplate\_Definitions\_project.vstemplate.xml" Name="Nunit Project Template" Description="Nunit Project Template with nuget nunit package reference, mother class and a base class." ProjectType="CSharp" ProjectSubType="" />
+  </ProjectTemplates>
+  <Snippets />
+</TemplateReport>

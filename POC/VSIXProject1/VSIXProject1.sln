@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXProject1", "VSIXProject1\VSIXProject1.csproj", "{1E71E8B4-8496-417D-B00C-7775498CB017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitProjectTemplate", "NUnitProjectTemplate\NUnitProjectTemplate.csproj", "{9ECCC55A-6927-434A-B916-A558FB6BCFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E71E8B4-8496-417D-B00C-7775498CB017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E71E8B4-8496-417D-B00C-7775498CB017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E71E8B4-8496-417D-B00C-7775498CB017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E71E8B4-8496-417D-B00C-7775498CB017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECCC55A-6927-434A-B916-A558FB6BCFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECCC55A-6927-434A-B916-A558FB6BCFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
