@@ -6,5 +6,7 @@
   <ProjectTemplates>
     <ProjectTemplate Path="..\NUnitProjectTemplate\_Definitions\_project.vstemplate.xml" Name="Nunit Project Template" Description="Nunit Project Template with nuget nunit package reference, mother class and a base class." ProjectType="CSharp" ProjectSubType="" />
   </ProjectTemplates>
-  <Snippets />
+  <Snippets>
+    <Snippet Title="NUnitTest" Description="Test method stub for an nunit test" Shortcut="NUnitTest" Path="Snippets\CSharp\Test\NUnitTest.snippet" />
+  </Snippets>
 </TemplateReport>
