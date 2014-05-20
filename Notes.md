@@ -64,6 +64,7 @@
 * Update CSharp.vstemplate to include cs file
 * Update the content in the relevant *.vstemplate files
 
+```xml
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
   <TemplateData>
 	<ProjectType>CSharp</ProjectType>
@@ -81,7 +82,7 @@
 	
   </TemplateContent>
 </VSTemplate>
-
+```
 	
 ##Demo Snippet
 
@@ -96,6 +97,8 @@
 	* File On filesystem
 	* Snippets.pkgdef
 * Changed snippet file properties to Build Action: Content and Include in VSIX = true
+
+``` xml
 <?xml version="1.0" encoding="utf-8" ?>
 <CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
 	<CodeSnippet Format="1.0.0">
@@ -133,3 +136,4 @@
 		</Snippet>
 	</CodeSnippet>
 </CodeSnippets>
+```
