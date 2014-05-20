@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateReport>
+  <ItemTemplates>
+    <ItemTemplate Path="ItemTemplates\NUnit\JustinsNunitTestFile\Definitions\CSharp.vstemplate" Name="JustinsNunitTestFile" Description="Justin's Nunit Test file to go along with the NunitProjectTemplate.  Create a new file with all of the Nunit setup done." ProjectType="CSharp" ProjectSubType="" />
+  </ItemTemplates>
+  <ProjectTemplates>
+    <ProjectTemplate Path="..\NunitProjectTemplate\_Definitions\_project.vstemplate.xml" Name="Justin's Nunit Project Template" Description="Justin's Nunit project with base and mother classes setup." ProjectType="CSharp" ProjectSubType="" />
+  </ProjectTemplates>
+  <Snippets>
+    <Snippet Title="NUnitTest" Description="Test method stub for an nunit test" Shortcut="NUnitTest" Path="Snippets\CSharp\JustinsSnippets\NunitTest.snippet" />
+  </Snippets>
+</TemplateReport>

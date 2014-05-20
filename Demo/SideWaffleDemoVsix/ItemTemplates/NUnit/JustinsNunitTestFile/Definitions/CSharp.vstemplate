@@ -1,0 +1,17 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <ProjectType>CSharp</ProjectType>
+    
+    <DefaultName>NunitTest.cs</DefaultName>
+    <Name>JustinsNunitTestFile</Name>
+    <Description>Justin's Nunit Test file to go along with the NunitProjectTemplate.  Create a new file with all of the Nunit setup done.</Description>    
+    <Icon>icon.png</Icon>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+     
+    <ProjectItem ReplaceParameters="true">NunitTest.cs</ProjectItem>
+    
+  </TemplateContent>
+</VSTemplate>
