@@ -1,15 +1,11 @@
 ﻿using System;
 using NUnit.Framework;
 
-using System;
-using NUnit.Framework;
-
 namespace NUnitProjectTemplate
 {
 	[TestFixture]
 	public class Class1 : TestBaseClass
 	{
-
 		#region Test Setups and Teardown Methods
 
 		/// <summary>
