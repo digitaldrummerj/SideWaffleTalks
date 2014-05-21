@@ -1,6 +1,6 @@
 ﻿namespace NUnitProjectTemplate
 {
-	public class Mother
+	public static class Mother
 	{
 		 
 	}
