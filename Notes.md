@@ -35,7 +35,7 @@
 ##Demo Project Template
 
 * Create new solution
-* add VSIX project
+* add VSIX project (make sure .NET 4.5 is selected)
 * Fill in Product Name, Author, and Description for source.extension.vsixmanifest
 * Install-Package TemplateBuilder -pre
 * Add new class library project.  NunitProjectTemplate
@@ -51,6 +51,8 @@
 	* Change Name
 	* Change Description
 * Ctrl+F5 to launch Instance
+
+* WARNING: 1 issue with nuget package reference.  solution must be at same level at when you created the vsix.
 
 ##Demo Item Template
 
