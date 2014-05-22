@@ -1,4 +1,4 @@
-#Side Waffle DemoNotes:
+#Side Waffle Demo:
 
 [http://www.sidewaffle.com/](http://www.sidewaffle.com/)
 
